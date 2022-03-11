@@ -1,0 +1,1 @@
+Koden fra et mateprosjekt på 10.trinn
