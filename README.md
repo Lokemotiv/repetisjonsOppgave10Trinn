@@ -1,1 +1,1 @@
-Koden fra et mateprosjekt på 10.trinn
+Koden fra et matteprosjekt på 10.trinn
