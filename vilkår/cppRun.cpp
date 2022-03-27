@@ -18,5 +18,6 @@ int main(){
             << "e: " << trueFalse(e) << "\n"
             << "f: " << trueFalse(f) << "\n";
 
-    std::cin >> a;
+    std::cout << "Trykk en knapp for " << char(134) << " avslute programet";
+    std::cin.get();
 }
