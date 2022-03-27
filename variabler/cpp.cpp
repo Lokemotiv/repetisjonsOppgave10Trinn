@@ -5,4 +5,5 @@ int main()
     double doubleVar = 1.5;
     char charVar = 'a';
     char stringVar[] = "hello";
+    const int constIntVar = 1
 }
