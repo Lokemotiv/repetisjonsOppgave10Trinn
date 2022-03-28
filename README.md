@@ -1,4 +1,4 @@
-Repitisjons oppgave 10. trinn. (En skole oppgave fra 10. trinn)
+Repetisjons oppgave 10. trinn. (En skole oppgave fra 10. trinn)
 
 I hver mappe så er det 6 filer:
 
