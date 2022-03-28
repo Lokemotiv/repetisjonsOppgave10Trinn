@@ -1,6 +1,7 @@
 Koden fra et matteprosjekt på 10. trinn.
 
 I hver mappe så er det:
+
 ¤ En fil med navn "scrachBilde" den filen er et bilde av scrach koden som ble visst i presentasjonen og documentent.
 ¤ En fil med navn "scrach" den filen er eksempelet på scrach kode. Kan bli lastet ned og lastet opp på https://scratch.mit.edu/projects/editor/.
 ¤ En fil med navn "cpp" den filen er eksepelet som ble visst i presentasjonen. Er bare koden.
