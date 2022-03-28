@@ -4,7 +4,6 @@ double add(double x, double y){
     return x + y;
 }
 
-//funksjon med bivirkning
 void printHello(){
     std::cout << "hello";
 }

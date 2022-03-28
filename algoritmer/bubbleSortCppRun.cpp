@@ -24,7 +24,7 @@ int main(){
     x = split(s, ",");
     x = bubbleSort(stold(x))
     std::cout << "Sorterte listen: "
-    for(long double i : x)
+    for(auto i : x)
         std::cout << i << ",";
     std::cout << "Det tok: " << << "ms";
 }
