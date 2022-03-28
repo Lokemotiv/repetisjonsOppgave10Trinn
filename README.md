@@ -1,18 +1,18 @@
-Koden fra et matteprosjekt på 10. trinn.
+Repitisjons oppgave 10. trinn. (En skole oppgave fra 10. trinn)
 
-I hver mappe så er det:
+I hver mappe så er det 6 filer:
 
-	¤ En fil med navn "scrachBilde" den filen er et bilde av scrach koden som ble visst i presentasjonen og documentent.
+	¤ "scrachBilde" filen er "scratch" eksempelet som ble visst i presentasjonen og documentent. Filen slutter i ".png"
 
-	¤ En fil med navn "scrach" den filen er eksempelet på scrach kode. Kan bli lastet ned og lastet opp på https://scratch.mit.edu/projects/editor/.
+	¤ "scrach" filen er "scrach" eksempelet koden. Kan bli lastet ned og lastet opp på https://scratch.mit.edu/projects/editor/.
 
-	¤ En fil med navn "cpp" den filen er eksepelet som ble visst i presentasjonen. Er bare koden.
+	¤ "cpp" filen er "cpp" eksepelet som ble visst i presentasjonen. Er bare koden.
 
-	¤ En fil med navn "cppMForklaring" den filen er eksempelet som blir visst i documentet. Har med ekstra forklaringer.
+	¤ "cppMForklaring" filen er "cpp" eksempelet som blir visst i documentet. Har med ekstra forklaringer.
 
-	¤ En fil med navn "CppRun" den filen er source coden til filen med navn exeRun.
+	¤ "CppRun" filen er source coden til filen med navn exeRun.
 
-	¤ En fil med navn "exeRun" den filen kan bli lastet ned og kjørt på windows.
+	¤ "exeRun" filen kan bli lastet ned og kjørt på windows.
 
 Documentet: https://docs.google.com/document/d/1Vg3GwzSO7UyN-GsKPPNfEONYF9TKpMOrb2px8NUkmzs/edit?usp=sharing.
 
