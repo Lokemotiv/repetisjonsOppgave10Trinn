@@ -23,6 +23,6 @@ Ved unntak så er navnet skreve slikt:
 	¤ Så info om filen. Eks: "mergeSort".
 
 
-Documentet: https://docs.google.com/document/d/1Vg3GwzSO7UyN-GsKPPNfEONYF9TKpMOrb2px8NUkmzs/edit?usp=sharing.
+Documentet: https://docs.google.com/document/d/1pCpZVPSrmsK6NHpJhIOiXdTIke9u3ETK/edit?usp=sharing&ouid=104065749766355412417&rtpof=true&sd=true.
 
-presentasjon: https://docs.google.com/presentation/d/1VRLZCJQQfnGiO2h1D0TJRBeOAwG9y1gAEnw8fF9TlsU/edit?usp=sharing
+presentasjon: https://docs.google.com/presentation/d/1O2FACMkBWZCwCv2lRiaabMoA4Du9xFAb/edit?usp=sharing&ouid=104065749766355412417&rtpof=true&sd=true.
