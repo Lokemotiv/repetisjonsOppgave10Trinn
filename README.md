@@ -16,4 +16,4 @@ I hver mappe så er det 6 filer:
 
 Documentet: https://docs.google.com/document/d/1Vg3GwzSO7UyN-GsKPPNfEONYF9TKpMOrb2px8NUkmzs/edit?usp=sharing.
 
-presentasjon: https://docs.google.com/presentation/d/1VRLZCJQQfnGiO2h1D0TJRBeOAwG9y1gAEnw8fF9TlsU/edit?usp=sharing.
+presentasjon: https://docs.google.com/presentation/d/1VRLZCJQQfnGiO2h1D0TJRBeOAwG9y1gAEnw8fF9TlsU/edit?usp=sharing
