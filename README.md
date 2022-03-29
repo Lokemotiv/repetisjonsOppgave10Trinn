@@ -14,6 +14,12 @@ I hver mappe så er det 6 filer:
 
 	¤ "exeRun" filen kan bli lastet ned og kjørt på windows. Filen slutter i ".exe".
 
+Ved unntak så er navnet skreve slikt:
+	¤ Først fil type. Eks: "cpp".
+	¤ Så keyWords. Eks: "run".
+	¤ Så info om filen. Eks: "mergeSort".
+
+
 Documentet: https://docs.google.com/document/d/1Vg3GwzSO7UyN-GsKPPNfEONYF9TKpMOrb2px8NUkmzs/edit?usp=sharing.
 
 presentasjon: https://docs.google.com/presentation/d/1VRLZCJQQfnGiO2h1D0TJRBeOAwG9y1gAEnw8fF9TlsU/edit?usp=sharing.
