@@ -34,7 +34,7 @@ loop:
         goto loop;
     }
 
-    std::cout << "\nTrykk en knapp for " << char(134) << " avslute programet";
+    std::cout << "Trykk enter for " << char(134) << " avslute programet";
     std::cin.get();
     std::cin.get();
 }

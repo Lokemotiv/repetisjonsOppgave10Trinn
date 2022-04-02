@@ -17,7 +17,7 @@ int main(){
         std::cout << x << " er mindre enn " << y;
     }
 
-    std::cout << "Trykk en knapp for " << char(134) << " avslute programet";
+    std::cout << "Trykk enter for " << char(134) << " avslute programet";
     std::cin.get();
     std::cin.get();
 }
